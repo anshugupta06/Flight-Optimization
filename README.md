@@ -1,4 +1,5 @@
-# Flight-Optimization
+# The	Optimised	Flight	Path	Finder
+
 The	Optimised	Flight	Path	Finder	aims	to	revolutionize	domestic	aviation	route	planning	in	India	
 by	creating	an	intelligent	path	optimization	system.	Traditional	light	path	planning	methods	rely	
 on	predeined	routes	and	static	optimization	techniques	that	lack	lexibility	and	fail	to	adapt	to	
@@ -8,12 +9,13 @@ travel	times,	and	enhance	overall	operational	ef iciency.	The	user-friendly	C++	
 makes	advanced	path-inding	algorithms	accessible	through	an	intuitive	graphical	interface,	
 illing	the	gap	between	expensive	commercial	light	planning	software	and	the	needs	of	domestic	
 carriers.	The	project	will	help	promote	both	economic	and	environmental	beneits	for	India's	
-aviation	industry	through	more	ef icient	route	planning
-
+aviation	industry	through	more	ef icient	route	planning.
 
 Project Approach and Architecture:
  
 ![image](https://github.com/user-attachments/assets/1e717662-e230-4593-80b0-15f6fa9fec24)
+
+The tasks that are completed:
 
 ![image](https://github.com/user-attachments/assets/8070afa6-1cc0-472e-89f2-62a5d7817c09)
 
@@ -75,7 +77,7 @@ successfully completed the integration of visual elements and refined the stylin
 •Despite the complexities inherent in C++ GUI development, the team is on schedule to deliver the 
 complete application by the deadline, with all planned functionalities fully operational
 
-Deliverable Prohram
+Deliverable Program
 
 • Airport dataset: 100% complete - A comprehensive dataset of Indian airports has been acquired 
 and preprocessed. 
@@ -85,7 +87,7 @@ integrated with the airport data.
 complete dataset.  
 • UI for airport selection: 70% complete - Basic functionality working, styling and user 
 experience improvements needed.
- • A* algorithm: 100% complete - Implementation is fully optimized and tested as an alternative 
+• A* algorithm: 100% complete - Implementation is fully optimized and tested as an alternative 
 path-finding solution.  
 • Backend system integration: 100% complete - All backend components work together 
 seamlessly.  
